@@ -3,6 +3,7 @@
 var firebaseConfig = {
   apiKey: "AIzaSyA7EszbUgXdQWS_snLMP2srIa6bWyP3Y6M",
   authDomain: "testeaula-25aa9.firebaseapp.com",
+  databaseURL: "https://testeaula-25aa9-default-rtdb.firebaseio.com",
   projectId: "testeaula-25aa9",
   storageBucket: "testeaula-25aa9.appspot.com",
   messagingSenderId: "345316708710",
